@@ -12,7 +12,8 @@
 
 ## 📸 Preview
 
-![App Screenshot](https://github.com/sankum14/WallstreetGPT/assets/preview.png) <!-- Add real image path or keep as placeholder -->
+![Screenshot 2025-06-10 124045](https://github.com/user-attachments/assets/9560abcb-ab7c-4a71-8203-1bd45978a69b)
+ <!-- Add real image path or keep as placeholder -->
 
 ## 🚀 How to Run
 
