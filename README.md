@@ -13,6 +13,12 @@
 ## 📸 Preview
 
 ![Screenshot 2025-06-10 124045](https://github.com/user-attachments/assets/9560abcb-ab7c-4a71-8203-1bd45978a69b)
+![Screenshot 2025-06-10 124032](https://github.com/user-attachments/assets/84c21407-58b6-4409-a4e5-b9434f919743)
+![Screenshot 2025-06-10 124807](https://github.com/user-attachments/assets/215242a4-6e46-40b6-8e00-a33421b13ef3)
+![Screenshot 2025-06-10 124824](https://github.com/user-attachments/assets/48a6c20e-fd39-44ce-ab92-3584f5407aba)
+
+
+
  <!-- Add real image path or keep as placeholder -->
 
 ## 🚀 How to Run
